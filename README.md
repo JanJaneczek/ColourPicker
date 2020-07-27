@@ -1,5 +1,5 @@
 # ColourPicker 🎨
-macOS colour picker
+macOS ColourPicker.
 
 ![Portfolio](img/colourpicker.jpg)
 

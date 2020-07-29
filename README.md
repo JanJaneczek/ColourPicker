@@ -13,7 +13,7 @@ macOS ColourPicker.
 ## Getting Started 🚀
 
 1. Open Script Editor and create a new document
-2. Open colour_picker.scpt
+2. Open ```colour_picker.scpt```
 3. Save as an Application in your Applications folder
 4. Launch your new ColourPicker application.
 
